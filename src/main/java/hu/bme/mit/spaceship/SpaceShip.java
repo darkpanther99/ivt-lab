@@ -21,9 +21,5 @@ public interface SpaceShip {
   * @return whether the fire command was successful
   */
   public boolean fireTorpedo(FiringMode firingMode);
-<<<<<<< HEAD
-//szerkesztes2
-=======
 //szerkesztes3
->>>>>>> branch-B
 }
